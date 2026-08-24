@@ -128,8 +128,4 @@ PM2.5-dominant, traffic-decoupled profile was not anticipated and is the most no
 
 Python · pandas · scikit-learn (K-Means, Agglomerative Clustering, DBSCAN, PCA) · matplotlib · scipy
 
----
 
-## License
-
-Add a license of your choice (e.g. MIT) if you intend this repository to be reused.
