@@ -1,0 +1,231 @@
+#export;EXP-2026-001 (2026-06-29T10:14:46+01:00)
+#bron;https://data.rivm.nl/data/luchtmeetnet
+#beschrijving data;https://data.rivm.nl/data/luchtmeetnet/readme.pdf
+#
+#
+component;matrix;component_naam;comp_matrix_naam;comp_matrix_eenheid
+As;aerosol;arseen;arseen (aerosol);ng/m³
+Br;aerosol;broom;broom (aerosol);ng/m³
+Ca;aerosol;calcium;calcium (aerosol);ng/m³
+Cd;aerosol;cadmium;cadmium (aerosol);ng/m³
+Cl;aerosol;chloride;chloride (aerosol);µg/m³
+Cr;aerosol;chroom;chroom (aerosol);ng/m³
+Cu;aerosol;koper;koper (aerosol);ng/m³
+Fe;aerosol;ijzer;ijzer (aerosol);ng/m³
+NH4;aerosol;ammonium;ammonium (aerosol);µg/m³
+NO3;aerosol;nitraat;nitraat (aerosol);µg/m³
+Ni;aerosol;nikkel;nikkel (aerosol);ng/m³
+Pb;aerosol;lood;lood (aerosol);ng/m³
+S;aerosol;zwavel;zwavel (aerosol);ng/m³
+SO4;aerosol;sulfaat;sulfaat (aerosol);µg/m³
+Zn;aerosol;zink;zink (aerosol);ng/m³
+1-buteen;lucht;1-buteen;1-buteen (lucht);µg/m³
+1-penteen;lucht;1-penteen;1-penteen (lucht);µg/m³
+111-trichletaan;lucht;1,1,1-trichloroetaan;1,1,1-trichloroetaan (lucht);µg/m³
+112-trichletaan;lucht;1,1,2-trichloroetaan;1,1,2-trichloroetaan (lucht);µg/m³
+12-dichlbenz;lucht;1,2-dichlorobenzeen;1,2-dichlorobenzeen (lucht);µg/m³
+12-dichletaan;lucht;1,2-dichloroetaan;1,2-dichloroetaan (lucht);µg/m³
+12-dichlpropaan;lucht;1,2-dichloropropaan;1,2-dichloropropaan (lucht);µg/m³
+123-trichlbenz;lucht;1,2,3-trichlorobenzeen;1,2,3-trichlorobenzeen (lucht);µg/m³
+123-trimetben;lucht;1,2,3-trimethylbenzeen;1,2,3-trimethylbenzeen (lucht);µg/m³
+124-trichlbenz;lucht;1,2,4-trichlorobenzeen;1,2,4-trichlorobenzeen (lucht);µg/m³
+124-trimetben;lucht;1,2,4-trimethylbenzeen;1,2,4-trimethylbenzeen (lucht);µg/m³
+13-butadieen;lucht;1,3-butadieen;1,3-butadieen (lucht);µg/m³
+13-dichlbenz;lucht;1,3-dichlorobenzeen;1,3-dichlorobenzeen (lucht);µg/m³
+135-trichlbenz;lucht;1,3,5-trichlorobenzeen;1,3,5-trichlorobenzeen (lucht);µg/m³
+135-trimetben;lucht;1,3,5-trimethylbenzeen;1,3,5-trimethylbenzeen (lucht);µg/m³
+14-dichlbenz;lucht;1,4-dichlorobenzeen;1,4-dichlorobenzeen (lucht);µg/m³
+2-ethyltolueen;lucht;2-ethyltolueen;2-ethyltolueen (lucht);µg/m³
+2-methnaftaleen;lucht;2-methylnaftaleen;2-methylnaftaleen (lucht);µg/m³
+2-penteen;lucht;2-penteen;2-penteen (lucht);µg/m³
+3-ethyltolueen;lucht;3-ethyltolueen;3-ethyltolueen (lucht);µg/m³
+4-ethyltolueen;lucht;4-ethyltolueen;4-ethyltolueen (lucht);µg/m³
+BC;lucht;black carbon;black carbon (lucht);µg/m³
+BC370;lucht;BC 370;;
+BC470;lucht;BC 470;;
+BC520;lucht;BC 520;;
+BC590;lucht;BC 590;;
+BC630;lucht;BC 630;;
+BC880;lucht;BC 880;;
+BC950;lucht;BC 950;;
+BCwb;lucht;BC wood burning;Blackcarbon wood burning;µg/m³
+CH4;lucht;methaan;methaan (lucht);µg/m³
+CO;lucht;koolmonoxide;koolmonoxide (lucht);µg/m³
+CO2;lucht;kooldioxide;kooldioxide (lucht);µg/m³
+H2S;lucht;waterstofsulfide;waterstofsulfide (lucht);µg/m³
+HG;lucht;Kwik;;
+NH3;lucht;ammoniak (gemeten onder normaal-condities);ammoniak (gemeten onder normaal-condities) (lucht);µg/m³
+NO;lucht;stikstofmonoxide;stikstofmonoxide (lucht);µg/m³
+NO2;lucht;stikstofdioxide;stikstofdioxide (lucht);µg/m³
+NOx;lucht;stikstofoxiden;stikstofoxiden (lucht);µg NO2/m³
+O3;lucht;ozon;ozon (lucht);µg/m³
+Ox;lucht;oxidant;oxidant (lucht);ppb
+PM10;lucht;fijn stof (stofdeeltjes < 10 µm);fijn stof (stofdeeltjes < 10 µm) (lucht);µg/m³
+PM2.5;lucht;fijn stof (stofdeeltjes < 2,5 µm);fijn stof (stofdeeltjes < 2,5 µm) (lucht);µg/m³
+SO2;lucht;zwaveldioxide;zwaveldioxide (lucht);µg/m³
+UFP;lucht;ultra fijn stof;ultra fijn stof (lucht);n/cm³
+ZWR;lucht;zwarte rook;zwarte rook (lucht);µg/m³
+acetyleen;lucht;acetyleen;acetyleen (lucht);µg/m³
+benzeen;lucht;benzeen;benzeen (lucht);µg/m³
+butylbenzeen;lucht;butylbenzeen;butylbenzeen (lucht);µg/m³
+chloorbenzeen;lucht;chloorbenzeen;chloorbenzeen (lucht);µg/m³
+cis-2-buteen;lucht;cis-2-buteen;cis-2-buteen (lucht);µg/m³
+cumeen;lucht;cumeen;cumeen (lucht);µg/m³
+cymeen;lucht;cymeen;cymeen (lucht);µg/m³
+decaan;lucht;decaan;decaan (lucht);µg/m³
+dodecaan;lucht;dodecaan;dodecaan (lucht);µg/m³
+ethaan;lucht;ethaan;ethaan (lucht);µg/m³
+ethylbenzeen;lucht;ethylbenzeen;ethylbenzeen (lucht);µg/m³
+ethyleen;lucht;ethyleen;ethyleen (lucht);µg/m³
+fenol;lucht;fenol;fenol (lucht);µg/m³
+hexadecaan;lucht;hexadecaan;hexadecaan (lucht);µg/m³
+i-butaan;lucht;i-butaan;i-butaan (lucht);µg/m³
+i-hexaan;lucht;i-hexaan;i-hexaan (lucht);µg/m³
+i-octaan;lucht;i-octaan;i-octaan (lucht);µg/m³
+i-pentaan;lucht;i-pentaan;i-pentaan (lucht);µg/m³
+isopreen;lucht;isopreen;isopreen (lucht);µg/m³
+limoneen;lucht;limoneen;limoneen (lucht);µg/m³
+m-xyleen;lucht;m-xyleen;m-xyleen (lucht);µg/m³
+meta-paraxyleen;lucht;m+p-xyleen;m+p-xyleen (lucht);µg/m³
+n-butaan;lucht;n-butaan;n-butaan (lucht);µg/m³
+n-heptaan;lucht;n-heptaan;n-heptaan (lucht);µg/m³
+n-hexaan;lucht;n-hexaan;n-hexaan (lucht);µg/m³
+n-octaan;lucht;n-octaan;n-octaan (lucht);µg/m³
+n-pentaan;lucht;n-pentaan;n-pentaan (lucht);µg/m³
+naftaleen;lucht;naftaleen;naftaleen (lucht);µg/m³
+nonaan;lucht;nonaan;nonaan (lucht);µg/m³
+orthoxyleen;lucht;o-xyleen;o-xyleen (lucht);µg/m³
+p-xyleen;lucht;p-xyleen;p-xyleen (lucht);µg/m³
+pentadecaan;lucht;pentadecaan;pentadecaan (lucht);µg/m³
+propaan;lucht;propaan;propaan (lucht);µg/m³
+propeen;lucht;propeen;propeen (lucht);µg/m³
+propylbenzeen;lucht;propylbenzeen;propylbenzeen (lucht);µg/m³
+styreen;lucht;styreen;styreen (lucht);µg/m³
+tetrachleteen;lucht;tetrachloroeteen;tetrachloroeteen (lucht);µg/m³
+tetrachlmetaan;lucht;tetrachlorometaan;tetrachlorometaan (lucht);µg/m³
+tetradecaan;lucht;tetradecaan;tetradecaan (lucht);µg/m³
+tolueen;lucht;tolueen;tolueen (lucht);µg/m³
+trans-2-buteen;lucht;trans-2-buteen;trans-2-buteen (lucht);µg/m³
+trichleteen;lucht;trichloroeteen;trichloroeteen (lucht);µg/m³
+trichlmetaan;lucht;trichlorometaan;trichlorometaan (lucht);µg/m³
+tridecaan;lucht;tridecaan;tridecaan (lucht);µg/m³
+undecaan;lucht;undecaan;undecaan (lucht);µg/m³
+UFP;lucht+aerosol;ultra fijn stof;ultra fijn stof (lucht+aerosol);n/cm³
+Al;pm10_aerosol;Aluminium;Aluminium (pm10_aerosol);ng/m³
+As;pm10_aerosol;arseen;arseen (pm10_aerosol);ng/m³
+Ba;pm10_aerosol;Barium;Barium (pm10_aerosol);ng/m³
+Be;pm10_aerosol;Beryllium ;Beryllium  (pm10_aerosol);ng/m³
+Br;pm10_aerosol;broom;broom (pm10_aerosol);ng/m³
+Ca;pm10_aerosol;calcium;calcium (pm10_aerosol);ng/m³
+Cd;pm10_aerosol;cadmium;cadmium (pm10_aerosol);ng/m³
+Cl;pm10_aerosol;chloride;chloride (pm10_aerosol);µg/m³
+Co;pm10_aerosol;cobalt;cobalt (pm10_aerosol);ng/m³
+Cr;pm10_aerosol;chroom;chroom (pm10_aerosol);ng/m³
+Cu;pm10_aerosol;koper;koper (pm10_aerosol);ng/m³
+Fe;pm10_aerosol;ijzer;ijzer (pm10_aerosol);ng/m³
+K;pm10_aerosol;kalium;kalium (pm10_aerosol);ng/m³
+Li;pm10_aerosol;Lithium;Lithium (pm10_aerosol);ng/m³
+Mg;pm10_aerosol;magnesium;magnesium (pm10_aerosol);ng/m³
+Mn;pm10_aerosol;mangaan;mangaan (pm10_aerosol);ng/m³
+Mo;pm10_aerosol;Molybdeen;Molybdeen (pm10_aerosol);ng/m³
+NH4;pm10_aerosol;ammonium;ammonium (pm10_aerosol);µg/m³
+NO3;pm10_aerosol;nitraat;nitraat (pm10_aerosol);µg/m³
+Na;pm10_aerosol;natrium;natrium (pm10_aerosol);ng/m³
+Ni;pm10_aerosol;nikkel;nikkel (pm10_aerosol);ng/m³
+P;pm10_aerosol;Fosfor;Fosfor (pm10_aerosol);ng/m³
+Pb;pm10_aerosol;lood;lood (pm10_aerosol);ng/m³
+Pt;pm10_aerosol;Platinum;Platinum (pm10_aerosol);ng/m³
+S;pm10_aerosol;zwavel;zwavel (pm10_aerosol);ng/m³
+SO4;pm10_aerosol;sulfaat;sulfaat (pm10_aerosol);µg/m³
+Sb;pm10_aerosol;Antimoon;Antimoon (pm10_aerosol);ng/m³
+Se;pm10_aerosol;seleen;seleen (pm10_aerosol);ng/m³
+Si;pm10_aerosol;Silicium;Silicium (pm10_aerosol);ng/m³
+Sn;pm10_aerosol;Tin;Tin (pm10_aerosol);ng/m³
+Sr;pm10_aerosol;Strontium;Strontium (pm10_aerosol);ng/m³
+Ti;pm10_aerosol;Titanium;Titanium (pm10_aerosol);ng/m³
+Tl;pm10_aerosol;Thallium;Thallium (pm10_aerosol);ng/m³
+V;pm10_aerosol;vanadium;vanadium (pm10_aerosol);ng/m³
+Y;pm10_aerosol;Yttrium;Yttrium (pm10_aerosol);ng/m³
+Zn;pm10_aerosol;zink;zink (pm10_aerosol);ng/m³
+benz-a-antr;pm10_aerosol;benzo(a)antraceen;benzo(a)antraceen (pm10_aerosol);ng/m³
+benz-a-pyreen;pm10_aerosol;benzo(a)pyreen;benzo(a)pyreen (pm10_aerosol);ng/m³
+benz-bjk-fluor;pm10_aerosol;benzo(b,j,k)fluoranteen;benzo(b,j,k)fluoranteen (pm10_aerosol);ng/m³
+benz-ghi-peryl;pm10_aerosol;benzo(ghi)peryleen;benzo(ghi)peryleen (pm10_aerosol);ng/m³
+chryseen;pm10_aerosol;chryseen;chryseen (pm10_aerosol);ng/m³
+dibenz-ah-antr;pm10_aerosol;dibenzo(ah)antraceen;dibenzo(ah)antraceen (pm10_aerosol);ng/m³
+ind-123cd-pyr;pm10_aerosol;indeno(123cd)pyreen  ;indeno(123cd)pyreen   (pm10_aerosol);ng/m³
+vol_norm;pm10_aerosol;normaal volume;normaal volume (pm10_aerosol);m³
+As;pm25_aerosol;arseen;arseen (pm25_aerosol);ng/m³
+Ca;pm25_aerosol;calcium;calcium (pm25_aerosol);ng/m³
+Cd;pm25_aerosol;cadmium;cadmium (pm25_aerosol);ng/m³
+Cl;pm25_aerosol;chloride;chloride (pm25_aerosol);µg/m³
+EC;pm25_aerosol;elementair koolstof;elementair koolstof (pm25_aerosol);µg/m³
+EC_unc;pm25_aerosol;elementair koolstof (onzekerheid);elementair koolstof (onzekerheid) (pm25_aerosol);µg/m³
+K;pm25_aerosol;kalium;kalium (pm25_aerosol);ng/m³
+Mg;pm25_aerosol;magnesium;magnesium (pm25_aerosol);ng/m³
+NH4;pm25_aerosol;ammonium;ammonium (pm25_aerosol);µg/m³
+NO3;pm25_aerosol;nitraat;nitraat (pm25_aerosol);µg/m³
+Na;pm25_aerosol;natrium;natrium (pm25_aerosol);ng/m³
+Ni;pm25_aerosol;nikkel;nikkel (pm25_aerosol);ng/m³
+OC;pm25_aerosol;organische koolstof;organische koolstof (pm25_aerosol);µg/m³
+OC_fra1;pm25_aerosol;organische koolstof (fractie k1);organische koolstof (fractie k1) (pm25_aerosol);µg/m³
+OC_fra2;pm25_aerosol;organische koolstof  (fractie k2);organische koolstof  (fractie k2) (pm25_aerosol);µg/m³
+OC_fra3;pm25_aerosol;organische koolstof  (fractie k3);organische koolstof  (fractie k3) (pm25_aerosol);µg/m³
+OC_fra4;pm25_aerosol;organische koolstof  (fractie k4);organische koolstof  (fractie k4) (pm25_aerosol);µg/m³
+OC_pyr;pm25_aerosol;organische koolstof  ( fractie pyrol);organische koolstof  ( fractie pyrol) (pm25_aerosol);µg/m³
+OC_unc;pm25_aerosol;organische koolstof (onzekerheid);organische koolstof (onzekerheid) (pm25_aerosol);µg/m³
+Pb;pm25_aerosol;lood;lood (pm25_aerosol);ng/m³
+SO4;pm25_aerosol;sulfaat;sulfaat (pm25_aerosol);µg/m³
+TC;pm25_aerosol;totale koolstofhoeveelheid;totale koolstofhoeveelheid (pm25_aerosol);µg/m³
+TC_unc;pm25_aerosol;totale koolstofhoeveelheid (onzekerheid);totale koolstofhoeveelheid (onzekerheid) (pm25_aerosol);µg/m³
+Zn;pm25_aerosol;zink;zink (pm25_aerosol);ng/m³
+As;regenwater;arseen;arseen (regenwater);µmol/l
+Ca;regenwater;calcium;calcium (regenwater);µmol/l
+Cd;regenwater;cadmium;cadmium (regenwater);µmol/l
+Cl;regenwater;chloride;chloride (regenwater);µmol/l
+Co;regenwater;cobalt;cobalt (regenwater);µmol/l
+Cr;regenwater;chroom;chroom (regenwater);µmol/l
+Cu;regenwater;koper;koper (regenwater);µmol/l
+F;regenwater;fluoride;fluoride (regenwater);µmol/l
+Fe;regenwater;ijzer;ijzer (regenwater);µmol/l
+HCO3;regenwater;waterstofcarbonaat;waterstofcarbonaat (regenwater);µmol/l
+Hg;regenwater;kwik;kwik (regenwater);nmol/l
+K;regenwater;kalium;kalium (regenwater);µmol/l
+K25;regenwater;elektrische geleidbaarheid;elektrische geleidbaarheid (regenwater);µS/cm
+Mg;regenwater;magnesium;magnesium (regenwater);µmol/l
+Mn;regenwater;mangaan;mangaan (regenwater);µmol/l
+NH4;regenwater;ammonium;ammonium (regenwater);µmol/l
+NO3;regenwater;nitraat;nitraat (regenwater);µmol/l
+Na;regenwater;natrium;natrium (regenwater);µmol/l
+Ni;regenwater;nikkel;nikkel (regenwater);µmol/l
+PO4;regenwater;fosfaat;fosfaat (regenwater);µmol/l
+Pb;regenwater;lood;lood (regenwater);µmol/l
+SO4;regenwater;sulfaat;sulfaat (regenwater);µmol/l
+Se;regenwater;seleen;seleen (regenwater);µmol/l
+V;regenwater;vanadium;vanadium (regenwater);µmol/l
+Zn;regenwater;zink;zink (regenwater);µmol/l
+acenafteen;regenwater;acenafteen;acenafteen (regenwater);nmol/l
+acenaftyleen;regenwater;acenaftyleen;acenaftyleen (regenwater);nmol/l
+antraceen;regenwater;antraceen;antraceen (regenwater);nmol/l
+benz-a-antr;regenwater;benzo(a)antraceen;benzo(a)antraceen (regenwater);nmol/l
+benz-a-pyreen;regenwater;benzo(a)pyreen;benzo(a)pyreen (regenwater);nmol/l
+benz-bjk-fluor;regenwater;benzo(b,j,k)fluoranteen;benzo(b,j,k)fluoranteen (regenwater);nmol/l
+benz-ghi-peryl;regenwater;benzo(ghi)peryleen;benzo(ghi)peryleen (regenwater);nmol/l
+chryseen;regenwater;chryseen;chryseen (regenwater);nmol/l
+dibenz-ah-antr;regenwater;dibenzo(ah)antraceen;dibenzo(ah)antraceen (regenwater);nmol/l
+fenantreen;regenwater;fenantreen;fenantreen (regenwater);nmol/l
+fluoranteen;regenwater;fluoranteen;fluoranteen (regenwater);nmol/l
+fluoreen;regenwater;fluoreen;fluoreen (regenwater);nmol/l
+g-HCH;regenwater;gamma-HCH (hexachloorcyclohexaan) ;gamma-HCH (hexachloorcyclohexaan)  (regenwater);nmol/l
+ind-123cd-pyr;regenwater;indeno(123cd)pyreen  ;indeno(123cd)pyreen   (regenwater);nmol/l
+massa_ece;regenwater;massa regenwater  ECE-EMEP monster;massa regenwater  ECE-EMEP monster (regenwater);g
+massa_hc;regenwater;massa regenwater  HC monster;massa regenwater  HC monster (regenwater);g
+massa_zm;regenwater;massa regenwater  ZM monster;massa regenwater  ZM monster (regenwater);g
+naftaleen;regenwater;naftaleen;naftaleen (regenwater);nmol/l
+neerslag_gc_ms;regenwater;neerslaghoeveelheid regenvanger gc-ms;neerslaghoeveelheid regenvanger gc-ms (regenwater);mm
+neerslag_hc;regenwater;neerslaghoeveelheid HC monster;neerslaghoeveelheid HC monster (regenwater);mm
+neerslag_hg;regenwater;neerslaghoeveelheid regenvanger Hg;neerslaghoeveelheid regenvanger Hg (regenwater);mm
+neerslag_zm;regenwater;neerslaghoeveelheid ZM monster;neerslaghoeveelheid ZM monster (regenwater);mm
+pH;regenwater;pH;pH (regenwater);pH-waarde
+pyreen;regenwater;pyreen;pyreen (regenwater);nmol/l
+st.zr.;regenwater;sterk zuur;sterk zuur (regenwater);µg/l
