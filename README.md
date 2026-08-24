@@ -115,21 +115,6 @@ PM2.5-dominant, traffic-decoupled profile was not anticipated and is the most no
 
 ---
 
-## Repository Structure
-
-```
-clustering-project-esmeralda/
-├── notebooks/
-│   └── clustering_capstone.ipynb   # Full analysis: EDA, cleaning, feature engineering,
-│                                    # algorithm comparison, validation, interpretation,
-│                                    # and stakeholder impact report
-├── data/                            # RIVM Luchtmeetnet source files (not tracked in repo)
-├── outputs/                         # Generated figures (station map, cluster comparisons)
-└── README.md
-```
-
----
-
 ## How to Run
 
 1. Download the 2024 RIVM Luchtmeetnet data files from
